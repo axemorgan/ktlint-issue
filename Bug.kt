@@ -2,8 +2,8 @@
 import other.CONSTANT
 
 fun main() {
-	if (CONSTANT 
-    	&& true
+    if (CONSTANT
+        && true
     ) {
         return
     }
